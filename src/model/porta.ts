@@ -32,7 +32,7 @@ export default class PortaModel {
         return this.#aberta;
     }
 
-    desselecionada() {
+    desselecionar() {
         const selecionada = false;
         return new PortaModel(
             this.numero,
