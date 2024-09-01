@@ -1,3 +1,42 @@
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/d85ab5b5-d966-448e-af12-ce4d7114d335)
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+
+## Projeto Portas com NextJS + ReactJS + Typescript - Uma versão do programa de TV Month Hall 📚 
+
+## A ideia 
+Há tem três portas e uma porta tem um prêmio e outras duas portas não tem nada.
+
+E aí a pessoa que está participando da brincadeira escolhe uma porta e o apresentador vai lá abre uma porta que não tem um presente.
+
+Pergunta se a pessoa quer manter a escolha inicial ou se quer trocar para a outra.
+
+Esse projeto vai simular essa mesmas brincadeira. Há muitos elementos visuais interessantes.
+
+## Motivação
+Para exercitar os conceitos aprendidos no curso "Next.js e React - Curso Completo - Aprenda com Projetos", tais como:
+- Organização do projeto
+- Criação de componentes
+- Comunicação direta entre componentes
+- Passagem de parâmetros
+- Variáveis com estados - <em>useState</em>
+- Manipulação de variáveis com estados através do <em>useEffect</em>
+- Integração com aquivos CSS com <em>module.css</em>
+- Integração com Typescript
+
+
+##
+
+## Veja como ficou 🌎 
+
+https://portas-lilac.vercel.app/
+
+##
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
